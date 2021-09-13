@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="OnlineBankingSuite" duration-ms="61131" started-at="2021-09-13T13:24:42 IST" finished-at="2021-09-13T13:25:44 IST">
+    <groups>
+    </groups>
+    <test name="OnlineBankingTest" duration-ms="61131" started-at="2021-09-13T13:24:42 IST" finished-at="2021-09-13T13:25:44 IST">
+      <class name="com.banking.qa.testcases.AccountInformationpageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.banking.qa.testcases.AccountInformationpageTest@44c8afef]" name="setup" is-config="true" duration-ms="4010" started-at="2021-09-13T13:25:34 IST" finished-at="2021-09-13T13:25:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="debitAmtValidation()[pri:1, instance:com.banking.qa.testcases.AccountInformationpageTest@44c8afef]" name="debitAmtValidation" duration-ms="2270" started-at="2021-09-13T13:25:38 IST" finished-at="2021-09-13T13:25:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- debitAmtValidation -->
+        <test-method status="PASS" signature="creditAmtValidation()[pri:2, instance:com.banking.qa.testcases.AccountInformationpageTest@44c8afef]" name="creditAmtValidation" duration-ms="918" started-at="2021-09-13T13:25:41 IST" finished-at="2021-09-13T13:25:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creditAmtValidation -->
+        <test-method status="PASS" signature="clickonSingoff()[pri:3, instance:com.banking.qa.testcases.AccountInformationpageTest@44c8afef]" name="clickonSingoff" duration-ms="1189" started-at="2021-09-13T13:25:42 IST" finished-at="2021-09-13T13:25:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonSingoff -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.banking.qa.testcases.AccountInformationpageTest@44c8afef]" name="tearDown" is-config="true" duration-ms="720" started-at="2021-09-13T13:25:43 IST" finished-at="2021-09-13T13:25:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.banking.qa.testcases.AccountInformationpageTest -->
+      <class name="com.banking.qa.testcases.TransferFundPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.banking.qa.testcases.TransferFundPageTest@4923ab24]" name="setup" is-config="true" duration-ms="5090" started-at="2021-09-13T13:25:26 IST" finished-at="2021-09-13T13:25:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="transferFundspage_Validation()[pri:1, instance:com.banking.qa.testcases.TransferFundPageTest@4923ab24]" name="transferFundspage_Validation" duration-ms="1296" started-at="2021-09-13T13:25:31 IST" finished-at="2021-09-13T13:25:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- transferFundspage_Validation -->
+        <test-method status="PASS" signature="transferAmount()[pri:2, instance:com.banking.qa.testcases.TransferFundPageTest@4923ab24]" name="transferAmount" duration-ms="1015" started-at="2021-09-13T13:25:32 IST" finished-at="2021-09-13T13:25:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- transferAmount -->
+        <test-method status="PASS" signature="amountValidation()[pri:3, instance:com.banking.qa.testcases.TransferFundPageTest@4923ab24]" name="amountValidation" duration-ms="97" started-at="2021-09-13T13:25:33 IST" finished-at="2021-09-13T13:25:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amountValidation -->
+        <test-method status="PASS" signature="fromAcctValidation()[pri:4, instance:com.banking.qa.testcases.TransferFundPageTest@4923ab24]" name="fromAcctValidation" duration-ms="93" started-at="2021-09-13T13:25:33 IST" finished-at="2021-09-13T13:25:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fromAcctValidation -->
+        <test-method status="PASS" signature="toAcctValidation()[pri:4, instance:com.banking.qa.testcases.TransferFundPageTest@4923ab24]" name="toAcctValidation" duration-ms="79" started-at="2021-09-13T13:25:34 IST" finished-at="2021-09-13T13:25:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toAcctValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.banking.qa.testcases.TransferFundPageTest@4923ab24]" name="tearDown" is-config="true" duration-ms="750" started-at="2021-09-13T13:25:34 IST" finished-at="2021-09-13T13:25:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.banking.qa.testcases.TransferFundPageTest -->
+      <class name="com.banking.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.banking.qa.testcases.HomePageTest@27f723]" name="setup" is-config="true" duration-ms="4477" started-at="2021-09-13T13:25:19 IST" finished-at="2021-09-13T13:25:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="acctSelection()[pri:1, instance:com.banking.qa.testcases.HomePageTest@27f723]" name="acctSelection" duration-ms="1845" started-at="2021-09-13T13:25:23 IST" finished-at="2021-09-13T13:25:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acctSelection -->
+        <test-method status="PASS" signature="accountValidation()[pri:2, instance:com.banking.qa.testcases.HomePageTest@27f723]" name="accountValidation" duration-ms="54" started-at="2021-09-13T13:25:25 IST" finished-at="2021-09-13T13:25:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountValidation -->
+        <test-method status="PASS" signature="dateValidation()[pri:3, instance:com.banking.qa.testcases.HomePageTest@27f723]" name="dateValidation" duration-ms="152" started-at="2021-09-13T13:25:25 IST" finished-at="2021-09-13T13:25:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dateValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.banking.qa.testcases.HomePageTest@27f723]" name="tearDown" is-config="true" duration-ms="715" started-at="2021-09-13T13:25:25 IST" finished-at="2021-09-13T13:25:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.banking.qa.testcases.HomePageTest -->
+      <class name="com.banking.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.banking.qa.testcases.LoginPageTest@467aecef]" name="setup" is-config="true" duration-ms="14646" started-at="2021-09-13T13:24:42 IST" finished-at="2021-09-13T13:24:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="AltoroMutualLogoTest()[pri:1, instance:com.banking.qa.testcases.LoginPageTest@467aecef]" name="AltoroMutualLogoTest" duration-ms="188" started-at="2021-09-13T13:24:57 IST" finished-at="2021-09-13T13:24:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AltoroMutualLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.banking.qa.testcases.LoginPageTest@467aecef]" name="tearDown" is-config="true" duration-ms="853" started-at="2021-09-13T13:24:57 IST" finished-at="2021-09-13T13:24:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.banking.qa.testcases.LoginPageTest@467aecef]" name="setup" is-config="true" duration-ms="5729" started-at="2021-09-13T13:24:58 IST" finished-at="2021-09-13T13:25:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="tabValidationTest()[pri:2, instance:com.banking.qa.testcases.LoginPageTest@467aecef]" name="tabValidationTest" duration-ms="283" started-at="2021-09-13T13:25:04 IST" finished-at="2021-09-13T13:25:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tabValidationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.banking.qa.testcases.LoginPageTest@467aecef]" name="tearDown" is-config="true" duration-ms="719" started-at="2021-09-13T13:25:04 IST" finished-at="2021-09-13T13:25:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.banking.qa.testcases.LoginPageTest@467aecef]" name="setup" is-config="true" duration-ms="4628" started-at="2021-09-13T13:25:05 IST" finished-at="2021-09-13T13:25:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login_Failed_Msg_Test()[pri:3, instance:com.banking.qa.testcases.LoginPageTest@467aecef]" name="login_Failed_Msg_Test" duration-ms="1152" started-at="2021-09-13T13:25:10 IST" finished-at="2021-09-13T13:25:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Failed_Msg_Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.banking.qa.testcases.LoginPageTest@467aecef]" name="tearDown" is-config="true" duration-ms="781" started-at="2021-09-13T13:25:11 IST" finished-at="2021-09-13T13:25:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.banking.qa.testcases.LoginPageTest@467aecef]" name="setup" is-config="true" duration-ms="5541" started-at="2021-09-13T13:25:11 IST" finished-at="2021-09-13T13:25:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:4, instance:com.banking.qa.testcases.LoginPageTest@467aecef]" name="loginTest" duration-ms="972" started-at="2021-09-13T13:25:17 IST" finished-at="2021-09-13T13:25:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.banking.qa.testcases.LoginPageTest@467aecef]" name="tearDown" is-config="true" duration-ms="722" started-at="2021-09-13T13:25:18 IST" finished-at="2021-09-13T13:25:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.banking.qa.testcases.LoginPageTest -->
+    </test> <!-- OnlineBankingTest -->
+  </suite> <!-- OnlineBankingSuite -->
+</testng-results>
